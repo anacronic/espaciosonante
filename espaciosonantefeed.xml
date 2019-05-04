@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Espacio Sonante</title> 
+<description>Podcast sobre el paisaje sonoro, para despertar la escucha atenta.</description>
+<link>http://espaciosonante.com</link>
+<language>es</language>
+<copyright>Attribution 3.0 Unported (CC BY 3.0)</copyright>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<webMaster>info@albertmurillo.com (EspacioSonante)</webMaster>
+
+<itunes:author>info@albertmurillo.com</itunes:author>
+<itunes:subtitle>El podcast que escucha los paisajes sonoros, también conocidos como soundscapes. </itunes:subtitle>
+<itunes:summary>Damos cabida al entorno acústico natural, de la vida, rural y de la ciudad. </itunes:summary>
+<itunes:owner>
+<itunes:name>Albert Murillo</itunes:name>
+<itunes:email>info@albertmurillo.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://albertmurillo.com/espaciosonante/imgpodcast.jpg"/>
+<itunes:category text="Music"> 
+</itunes:category>
+
+<item>
+<title>#06 Espacio Sonante. La Lluvia</title>
+<link>http://espaciosonante.com</link>
+<guid>https://archive.org/download/06EspacioSonanteLluvia/%2306%20Espacio%20Sonante%20Lluvia.mp3</guid>
+<description>[ESP] La lluvia activa la escucha allá donde sea que se produzca. Este es un nuevo episodio de [espacio sonante] dedicado al sonido de la lluvia sobre las hojas de los árboles, sobre las plazas de las ciudades, sobre los claustros de las catedrales o sobre los paraguas. Es un viaje sonoro que nos lleva a Sant Cugat, Riumors y Bayona.
+
+[ENG] Rain activates listening wherever it occurs. This is a new episode of [espacio sonante] dedicated to the sound of rain on the leaves of the trees, on the squares of the cities, on the cloisters of the cathedrals or on the umbrellas. It is a sound trip that takes us to Sant Cugat, Riumors and Bayonne.
+
+[CAT] La pluja activa l’escolta allà on sigui que es produeixi. Aquest és un nou episodi de [espai sonant] dedicat al so de la pluja sobre les fulles dels arbres, sobre les places de les ciutats, sobre els claustres de les catedrals o sobre els paraigües. És un viatge sonor que ens porta a Sant Cugat, Riumors i Baiona.</description>
+
+<enclosure url="https://archive.org/download/06EspacioSonanteLluvia/%2306%20Espacio%20Sonante%20Lluvia.mp3" length="19152769" type="audio/mpeg"/> 
+<category>Music</category>
+<pubDate>Sat, 20 Apr 2019 12:00:00 GMT</pubDate>
+<itunes:author>Albert Murillo</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://albertmurillo.com/espaciosonante/episodio06.jpg"/>
+<itunes:subtitle>Episodio seis. Lluvia.</itunes:subtitle>
+<itunes:summary>Episodio dedicado a la lluvia. || Cualquier comentario o propuesta info@albertmurillo.com</itunes:summary>
+<itunes:duration>00:11:21</itunes:duration>
+<itunes:keywords>ambiente sonoro,paisaje sonoro,paisatge sonor,soundscape,escucha,escucha atenta, rain, lluvia, agua, water, trueno, thunder, ruido, field, campo</itunes:keywords>
+</item>
+
+<item>
+<title>#05 Espacio Sonante. Envíame un sonido</title>
+<link>http://espaciosonante.com</link>
+<guid>http://ia801501.us.archive.org/21/items/05EspacioSonanteEnvameUnSonido/%23%2005%20Espacio%20Sonante%20Env%C3%ADame%20un%20sonido.mp3</guid>
+<description>[ESP] En el mes de agosto pedí a través de este blog a los que me leen y me escuchan paisajes sonoros de sus vacaciones para hacer un episodio especial de mi podcast. Con todos ellos he creado este viaje virtual que nos lleva a los siguientes lugares:  Castellana Grotte, Palamós, Tarragona, Costa Rica, Japón, Calella, Menorca, Bari, Ankor Wat y La Garriga.  Gracias a los colaboradores Miquel, Quim, Susanna, Isaac, Laura, Christian, Iolanda y Carles.
+
+
+[ENG] In August I asked through this blog to those who read me some soundscapes of their vacations to make a special episode of my podcast. With all of them I created this virtual trip that takes us to the following places: Castellana Grotte, Palamós, Tarragona, Costa Rica, Japan, Calella, Menorca, Bari, Ankor Wat and La Garriga. Thanks to collaborators Miquel, Quim, Susanna, Isaac, Laura, Christian, Iolanda and Carles.
+
+
+[CAT] Al mes d'agost d'aquest any vaig demanar, a través d'aquest bloc a tots els que em llegeixen i m'escolten uns paisatges sonors de les seves vacances. Amb tots ells he creat aquest viatge virtual que ens porta a tots aquest llocs: Castellana Grotte, Palamós, Tarragona, Costa Rica, Japó, Calella, Menorca, Bari, Ankor Wat y La Garriga. Gràcies a tots els col·laboradors Miquel, Quim, Susanna, Isaac, Laura, Christian, Iolanda i Carles.</description>
+
+<enclosure url="http://ia801501.us.archive.org/21/items/05EspacioSonanteEnvameUnSonido/%23%2005%20Espacio%20Sonante%20Env%C3%ADame%20un%20sonido.mp3" length="9611377" type="audio/mpeg"/> 
+<category>Music</category>
+<pubDate>Sun, 30 Dec 2018 17:00:00 GMT</pubDate>
+<itunes:author>Albert Murillo</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://albertmurillo.com/espaciosonante/episodio05.jpg"/>
+<itunes:subtitle>Episodio cinco. Envíame un sonido.</itunes:subtitle>
+<itunes:summary>Episodio dedicado a los sonidos de vacaciones de otros. || Cualquier comentario o propuesta info@albertmurillo.com</itunes:summary>
+<itunes:duration>00:09:39</itunes:duration>
+<itunes:keywords>ambiente sonoro,paisaje sonoro,paisatge sonor,soundscape,escucha,escucha atenta, playa, olas, ciudad, naturaleza, vacaciones</itunes:keywords>
+</item>
+
+<item>
+<title>#04 Espacio Sonante. El resurgir de la fuente</title>
+<link>http://espaciosonante.com</link>
+<guid>http://ia601501.us.archive.org/23/items/04EspacioSonanteElRedurgirDeLaFuente/04%20Espacio%20Sonante%20El%20redurgir%20de%20la%20fuente.mp3</guid>
+<description>[ESP] Hay una fuente en el Parc Natural de Collserola que dejó de existir durante más de cincuenta años. Estaba sepultada bajo el barro hasta que se reencontró gracias a un caminante. En los años 90 se iniciaron las obras para recuperar toda la zona y ahora, para mi es una de las lugares más especiales y donde más a menudo voy a grabar sonidos. Esta pieza sonora quiere resumir toda esta historia en un poco más de 10 minutos. He combinado hidrófonos y microfonia en ORTF.
+
+[ENG] There is a fountain in the Collserola Natural Park that ceased to exist for more than fifty years. It was buried under the mud until it was found thanks to a walker. In the 90s the works began to recover the whole area and now, for me it's one of the most special places I record sounds. This sound piece wants to summarize all this story in a little more than 10 minutes. I have combined hydrophones and microphone in ORTF.
+
+[CAT] Hi ha una font al Parc Natural de Collserola que va deixar d'existir durant més d'uns cincuanta anys. Estava sepultada sota del fang fins que es va retrobar gràcies a un caminant. Als anys noranta es van iniciar les obres per recuperar tota la zona i ara, per a mi, és un dels llocs més especials i on més sovint vaig a enregistrar. Aquesta peça sonora vol resumir tota aquesta història en poc més de 10 minuts. He combinat hidròfons i microfonia en ORTF. Espacio sonante intenta facilitar la escucha atenta. Gracias por la visita.</description>
+<enclosure url="http://ia601501.us.archive.org/23/items/04EspacioSonanteElRedurgirDeLaFuente/04%20Espacio%20Sonante%20El%20redurgir%20de%20la%20fuente.mp3" length="14638953" type="audio/mpeg"/> 
+<category>Music</category>
+<pubDate>Sun, 04 Nov 2018 12:00:00 GMT</pubDate>
+<itunes:author>Albert Murillo</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://albertmurillo.com/espaciosonante/episodio04.jpg"/>
+<itunes:subtitle>Episodio cuatro. El resurgir de la fuente.</itunes:subtitle>
+<itunes:summary>Episodio dedicado a una fuente que desapareció. || Cualquier comentario o propuesta info@albertmurillo.com</itunes:summary>
+<itunes:duration>00:11:22</itunes:duration>
+<itunes:keywords>ambiente sonoro,paisaje sonoro,paisatge sonor,soundscape,escucha,escucha atenta, fuente, bosque, naturaleza, pájaros, fountain, forest, nature, birds, hydrophone, hydrofono</itunes:keywords>
+</item>
+
+<item>
+<title>#03 Espacio Sonante. Viento</title>
+<link>http://espaciosonante.com</link>
+<guid>https://ia801505.us.archive.org/3/items/03EspacioSonanteViento/%23%2003%20Espacio%20Sonante%20Viento.mp3</guid>
+<description>El viento es ese gran enemigo de la grabación sonora. Durante años he luchado contra el viento con filtros de ecualización o con paravientos para que no se escuchara el sonido de vibración de la membrana del micrófono. Un sonido que con el tiempo me molesta menos.He aprendido a dejar que actúe como quiera y también he aprendido a colocar la microfonía en mejor posición. En este episodio, mientras escuchamos el viento sobre decenas de banderas, oiremos el aire en movimiento en el valle de Ollo, en Navarra y también el sonido de la Tramuntana en Riumors. Precisamente en Riumors me encontré a un cazador al cual escucharemos. Espacio sonante intenta facilitar la escucha atenta. Gracias por la visita.</description>
+<enclosure url="http://ia801505.us.archive.org/3/items/03EspacioSonanteViento/%23%2003%20Espacio%20Sonante%20Viento.mp3" length="13381162" type="audio/mpeg"/> 
+<category>Music</category>
+<pubDate>Sat, 30 Dec 2017 10:00:00 GMT</pubDate>
+<itunes:author>Albert Murillo</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://albertmurillo.com/espaciosonante/episodio03.jpg"/>
+<itunes:subtitle>Episodio tres. El viento.</itunes:subtitle>
+<itunes:summary>Episodio dedicadoal viento. || Cualquier comentario o propuesta info@albertmurillo.com</itunes:summary>
+<itunes:duration>00:09:17</itunes:duration>
+<itunes:keywords>ambiente sonoro,paisaje sonoro,paisatge sonor,soundscape,escucha,escucha atenta,viento,cazador</itunes:keywords>
+</item>
+
+<item>
+<title>#02 Espacio Sonante. Lisboa</title>
+<link>http://espaciosonante.com</link>
+<guid>http://archive.org/download/02EspacioSonanteLisboa/%23%2002%20Espacio%20Sonante%20Lisboa.mp3</guid>
+<description>Sonidos de interiores de avión, de iglesias y muchedumbre de la ciudad de Lisboa y también el paisaje sonoro de los tranvía deambulando por sus calles estrechas. Toda la información en Espacio Sonante.</description>
+<enclosure url="http://archive.org/download/02EspacioSonanteLisboa/%23%2002%20Espacio%20Sonante%20Lisboa.mp3" length="15396864" type="audio/mpeg"/> 
+<category>Music</category>
+<pubDate>Fri, 28 Jul 2017 10:00:00 GMT</pubDate>
+<itunes:author>Albert Murillo</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://albertmurillo.com/espaciosonante/episodio02.jpg"/>
+<itunes:subtitle>Episodio dos. Paisajes sonoros en Lisboa.</itunes:subtitle>
+<itunes:summary>Episodio dedicado a los paisajes sonoros de Lisboa. || Cualquier comentario o propuesta info@albertmurillo.com</itunes:summary>
+<itunes:duration>00:11:03</itunes:duration>
+<itunes:keywords>ambiente sonoro,paisaje sonoro,paisatge sonor,soundscape,escucha,escucha atenta,lisboa,tranvia,transporte,iglesia</itunes:keywords>
+</item>
+
+<item>
+<title>#01 Espacio Sonante. El Juego</title>
+<link>http://espaciosonante.com</link>
+<guid>http://ia601500.us.archive.org/19/items/01espaciosonante/01espaciosonante.mp3</guid>
+<description>Sonidos de juegos y de personas que juegan al billar a tres bandas, que corren por la calle y que tiran bolos en las plazas de los pueblos. Esto es un podcast dedicado al paisaje sonoro.Toda la información en Espacio Sonante.</description>
+<enclosure url="http://ia801500.us.archive.org/19/items/01espaciosonante/01espaciosonante.mp3" length="27573248" type="audio/mpeg"/> 
+<category>Music</category>
+<pubDate>Sun, 22 Jan 2017 10:00:00 GMT</pubDate>
+<itunes:author>Albert Murillo</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://albertmurillo.com/espaciosonante/episodio01.jpg"/>
+<itunes:subtitle>Episodio uno. Paisajes sonoros sobre el juego.</itunes:subtitle>
+<itunes:summary>Episodio dedicado a los paisajes sonoros de los juegos en la ciudad. || Cualquier comentario o propuesta info@albertmurillo.com</itunes:summary>
+<itunes:duration>00:20:15</itunes:duration>
+<itunes:keywords>ambiente sonoro,paisaje sonoro,paisatge sonor,soundscape,escucha,escucha atenta,juego,billar,footing,correr,bolos,bitlles,stockholm,santcugat,carrera</itunes:keywords>
+</item>
+
+<item>
+<title>#00 Espacio Sonante. Introducción</title>
+<link>http://espaciosonante.com</link>
+<guid>http://ia601501.us.archive.org/19/items/00EspacioSonanteIntroduccion/00espaciosonante.mp3</guid>
+<description>Episodio Introducción del podcast dedicado al paisaje sonoro y la escucha atenta. En este programa de presentación se presentan los sonidos que una morera tiene cuando llueve y la ambientación de la ciudad con petardos en la nit de Sant Joan.</description>
+<enclosure url="http://ia601501.us.archive.org/19/items/00EspacioSonanteIntroduccion/00espaciosonante.mp3" length="18117632" type="audio/mpeg"/> 
+<category>Music</category>
+<pubDate>Thu, 05 Jan 2017 10:39:47 GMT</pubDate>
+<itunes:author>Albert Murillo</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>Episodio cero. Explicaciones y características del Podcast.</itunes:subtitle>
+<itunes:summary>En este programa de presentación se escucharán los sonidos que una morera tiene cuando llueve y la ambientación de la ciudad con petardos en la nit de Sant Joan.|| Cualquier comentario o propuesta info@albertmurillo.com</itunes:summary>
+<itunes:duration>00:13:19</itunes:duration>
+<itunes:keywords>ambiente sonoro,paisaje sonoro,paisatge sonor,soundscape,escucha,escucha atenta</itunes:keywords>
+</item>
+
+</channel>
+</rss>
